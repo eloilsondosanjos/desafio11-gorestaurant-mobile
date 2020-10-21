@@ -35,7 +35,7 @@
 
 <br>
 
-## 💻 O que é o GoRestaurant
+## 💻 O que é o GoRestaurant Mobile
 
 <br>
 
