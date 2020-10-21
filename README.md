@@ -39,7 +39,7 @@
 
 <br>
 
-A aplicação GoRestaurant é do seguimento Delivery onde os clientes podem encomendar suas comidas. Possue função para salvar nos favoritos e adicionar extras ao pedido. Foi criada no bootcamp GoStack como desafio 11 para praticar e fixar os conceitos aprendidos no decorrer dos estudos em **React Native** além de conhecer mais o consumo de uma Fake API.
+A aplicação GoRestaurant Mobile é do seguimento Delivery onde os clientes podem encomendar suas comidas. Possue função para salvar nos favoritos e adicionar extras ao pedido. Foi criada no bootcamp GoStack como desafio 11 para praticar e fixar os conceitos aprendidos no decorrer dos estudos em **React Native** além de conhecer mais o consumo de uma Fake API.
 
 <br>
 
